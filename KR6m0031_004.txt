@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:38.517941
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 大乘玄論
 #+PROPERTY: CBETA_ID T45n1853
 #+PROPERTY: ID KR6m0031
