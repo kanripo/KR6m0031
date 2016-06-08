@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.036732
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 大乘玄論
 #+PROPERTY: CBETA_ID T45n1853
 #+PROPERTY: ID KR6m0031
@@ -1328,9 +1328,9 @@
 　七世恩所
 　佛道增長
 　廣施群類¶
-　利益堂堂
+　利益堂堂」
 #+END_VERSE
-」¶
+¶
 
 于時永仁三年三月二十一日菩薩戒比丘寂¶
 性
