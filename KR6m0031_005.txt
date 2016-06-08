@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:38.570814
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 大乘玄論
 #+PROPERTY: CBETA_ID T45n1853
 #+PROPERTY: ID KR6m0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1853
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0031_T_000-0015a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0031_T_005-0063b> ¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大乘玄論卷第五¶
+大乘玄論卷第五¶
 ¶
 胡吉藏撰¶
 
@@ -1329,9 +1328,9 @@
 　七世恩所
 　佛道增長
 　廣施群類¶
-　利益堂堂
+　利益堂堂」
 #+END_VERSE
-」¶
+¶
 
 于時永仁三年三月二十一日菩薩戒比丘寂¶
 性
